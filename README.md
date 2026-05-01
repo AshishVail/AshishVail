@@ -23,7 +23,6 @@ I specialize in building web solutions, SEO automation, and digital growth strat
 ---
 
 ### 📫 Let's Connect:
-- **Instagram:** [t2_ashish](https://www.instagram.com/t2_ashish?igsh=MXV2bXRtMG1mYThheQ==)
 - **Email:** contactashishxyz@gmail.com
 - **Website:** [nexovent.tech](https://nexovent.tech)
 
