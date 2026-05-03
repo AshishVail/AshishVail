@@ -1,41 +1,51 @@
 # Hi there! I'm Ashish 👋 
 
-### 🚀 Full-Stack Web Developer & Automation Expert
-I specialize in building scalable web solutions, SEO automation, and custom digital tools. I love turning complex manual tasks into efficient automated workflows.
+### 🚀 Founder of Nexovent | Building Next-Gen AI Automation Tools
+I am a passionate Full-Stack Developer and Automation Strategist. My mission is to simplify digital growth through smart, AI-driven solutions. Currently, I am building the **Nexovent Ecosystem** from the ground up.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Performance
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AshishVail&show_icons=true&theme=dark" alt="Ashish's GitHub stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishVail&layout=compact&theme=dark" alt="Top Langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishVail&theme=github-compact" width="100%" alt="Ashish's Contribution Graph" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🌐 Nexovent: The All-in-One AI Suite 🛠️
+I am developing a comprehensive platform designed for creators and digital marketers.
+- 🎥 **YouTube AI Hub:** Smart SEO and tag optimization.
+- 📌 **Pinterest Automation:** Automated pin growth and management.
+- 🤖 **Social Media Bots:** AI-powered agents for Instagram and Facebook.
+- 📈 **Reddit Analytics:** Real-time reach and engagement tracking.
+- 🎨 **Art Studio:** Seamless integration with DALL-E and Midjourney.
 
 ---
 
-### 🔭 Key Projects
-- 🌐 **[Nexovent](https://nexovent.tech):** My official digital agency providing high-end web solutions.
-- 🤖 **Google Indexing Bot:** A Python tool for instant URL submission to Search Console.
-- ⚙️ **SaaS Automation:** Developing micro-services to streamline business indexing.
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar84)
-[![Website](https://img.shields.io/badge/Website-Link-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexovent.tech)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactashishxyz@gmail.com)
+### 🔥 Top Projects & Labs
+- 🚀 **[Nexovent Official Site](https://nexovent.tech):** The headquarters for all my digital services.
+- 🤖 **Google Indexing API Bot:** Instant indexing for fast SEO results.
+- 🧠 **Smart Content AI:** Automated article and script generator using Gemini API.
+
+---
+
+### 📫 Connect & Collaborate:
+<p align="left">
+<a href="https://www.linkedin.com/in/ashish-kumar84"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://nexovent.tech"><img src="https://img.shields.io/badge/Nexovent-Visit_Site-000000?style=for-the-badge&logo=google-chrome" /></a>
+<a href="mailto:contactashishxyz@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
