@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Hi there, I'm Ashish 👋
 ### Independent Full-Stack Developer & Automation Freelancer
@@ -88,3 +88,4 @@ Have an idea, need a custom script, or looking to hire a developer for your proj
 <div align="center">
   <i>⚡ Open for freelance gigs, custom software builds, and long-term technical collaborations!</i>
 </div>
+](https://img.shields.io/badge/Status-Available%20for%20Freelance%20Work-success?style=for-the-badge&logo=git&logoColor=white)
