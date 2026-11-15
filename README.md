@@ -97,10 +97,6 @@ Technologies and tools I work with:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishVail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AshishVail&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Streak">
 </p>
 
